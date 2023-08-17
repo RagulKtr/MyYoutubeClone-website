@@ -1,0 +1,89 @@
+
+    .taho-font{
+        font-family:Tahoma;
+        font-weight: bold;
+        font-size: 30px;
+    }
+    .arial-font{
+        font-family: Arial;
+        font-weight: bold;
+        font-size: 30px;
+        margin-bottom: 6px;
+    }
+    .sales{
+        font-family: Arial;
+        color: red;
+        font-style: italic;
+        margin-top: 1px;
+    }
+    .verdana1{
+        font-family: Verdana;
+        font-weight: bold;
+        font-size: 30px;
+        margin-bottom: 3px;
+    }
+    .verdana2{
+        font-family: Verdana;
+        font-weight: lighter;
+        margin-bottom: 20px;
+        color: darkgray;
+    }
+    .verdana3{
+        font-family: Verdana;
+    }
+    .get-started{
+        background-color: green;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        padding: 10px;
+    }
+    .Shopping{
+        font-family: Arial;
+        font-weight: bold;
+        font-size: 40px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .see{
+        font-family: Arial;
+        font-weight: lighter;
+        text-align: center;
+    }
+    .learn{
+        font-family: arial;
+        text-align: center;
+        color: rgb(0, 195, 255);
+    }
+    .New{
+        color: red;
+        text-align: center;
+        margin-bottom: 5px;
+    }
+    .mac{
+        text-align: center;
+        font-weight: bold;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    .super{
+        text-align: center;
+        font-weight: bold;
+        font-size: 30px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .price{
+        text-align: center;
+        font-weight: bold;
+        margin-top: 5px;
+    }
+    .buy{
+        background-color: green;
+        border: none;
+        border-radius: 5px;
+        padding: 10px;
+    }
+    
+    
+
